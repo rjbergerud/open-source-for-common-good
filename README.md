@@ -1,5 +1,6 @@
 # Open Source For Common Good
 My own list of open source projects that serve a social or environmental goal.
+Some projects out there didn't make the list, because while being cool, didn't have any history of pull-requests and few or no collaborators. 
 
 ### Citizen Journalism
 - Aleph https://github.com/alephdata/aleph
@@ -9,6 +10,12 @@ My own list of open source projects that serve a social or environmental goal.
 - OpenStates - The Open States Project collects and makes available data about state legislative activities, including bill summaries, votes, sponsorships and state legislator information - https://github.com/openstates/openstates
 - Pupa - a framework for scraping legislative/government data https://github.com/opencivicdata/pupa
 - Councilmatic - https://github.com/datamade/django-councilmatic
+
+### Community Building
+- Warmshowers is a hospitality site for cycle-tourists - https://github.com/warmshowers/Warmshowers.org
+
+## Events and Workshops:
+- Data Science for Social Good - https://dssg.uchicago.edu/
 
 Where else to look:
 - Github's list of trending projects with social benefit: https://github.com/showcases/social-impact
