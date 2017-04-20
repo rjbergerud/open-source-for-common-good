@@ -14,7 +14,8 @@ Some projects out there didn't make the list, because while being cool, didn't h
 ### Community Building
 - Warmshowers is a hospitality site for cycle-tourists - https://github.com/warmshowers/Warmshowers.org
 
-## Events and Workshops:
+## Events, Workshops, and Competitions:
+- Kaggle, Understanding Human Impact on the Amazon Rainforest: https://www.kaggle.com/c/planet-understanding-the-amazon-from-space 
 - Data Science for Social Good - https://dssg.uchicago.edu/
 
 Where else to look:
