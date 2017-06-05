@@ -5,6 +5,7 @@ Some projects out there didn't make the list, because while being cool, didn't h
 ### Citizen Journalism
 - Aleph https://github.com/alephdata/aleph
 - DogwoodBC's Ban Big Money API https://github.com/DogwoodBC/bigmoney/
+- Tabula - useful for pulling tables from PDFs https://github.com/tabulapdf/tabula
 
 ### Civic Data
 - OpenStates - The Open States Project collects and makes available data about state legislative activities, including bill summaries, votes, sponsorships and state legislator information - https://github.com/openstates/openstates
