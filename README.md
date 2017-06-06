@@ -24,6 +24,7 @@ Some projects out there didn't make the list, because while being cool, didn't h
 ## Events, Workshops, and Competitions:
 - Kaggle, Understanding Human Impact on the Amazon Rainforest: https://www.kaggle.com/c/planet-understanding-the-amazon-from-space 
 - Data Science for Social Good - https://dssg.uchicago.edu/
+- DrivenData's data science competitions - https://www.drivendata.org/competitions/
 
 Where else to look:
 - Github's list of trending projects with social benefit: https://github.com/showcases/social-impact
