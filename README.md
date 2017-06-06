@@ -21,6 +21,9 @@ Some projects out there didn't make the list, because while being cool, didn't h
 ### Ecological Research
 - Oceanography for everyone - https://github.com/OceanographyforEveryone/OpenCTD
 
+### Other
+- Protecting US Federal climate data - https://github.com/climate-mirror/
+
 ## Events, Workshops, and Competitions:
 - Kaggle, Understanding Human Impact on the Amazon Rainforest: https://www.kaggle.com/c/planet-understanding-the-amazon-from-space 
 - Data Science for Social Good - https://dssg.uchicago.edu/
