@@ -15,6 +15,10 @@ Some projects out there didn't make the list, because while being cool, didn't h
 ### Community Building
 - Warmshowers is a hospitality site for cycle-tourists - https://github.com/warmshowers/Warmshowers.org
 
+### Humanitarian
+- HospitalRun is an open source hospital information system.  The project welcomes new contributors, and has a very active community - https://github.com/HospitalRun/hospitalrun-frontend
+- Emergency/Disaster Mapping - https://github.com/hotosm/osm-tasking-manager2
+
 ### Robotics
 - Elcano - a self-driving recumbent tricycle - https://github.com/elcano/elcano
 
