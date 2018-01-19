@@ -27,6 +27,7 @@ Some projects out there didn't make the list, because while being cool, didn't h
 
 ### Other
 - Protecting US Federal climate data - https://github.com/climate-mirror/
+- Stolen Bike Index - https://github.com/bikeindex/bike_index
 
 ## Events, Workshops, and Competitions:
 - Kaggle, Understanding Human Impact on the Amazon Rainforest: https://www.kaggle.com/c/planet-understanding-the-amazon-from-space 
