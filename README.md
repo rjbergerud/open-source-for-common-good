@@ -37,3 +37,4 @@ Some projects out there didn't make the list, because while being cool, didn't h
 Where else to look:
 - Github's list of trending projects with social benefit: https://github.com/showcases/social-impact
 - Tools for activism has some open-source projects listed along with other services: https://github.com/drewrwilson/toolsforactivism
+- Datakind is a network "Harnessing the power of data science in the service of humanity".  Check out their projects @ http://www.datakind.org/projects
