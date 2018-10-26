@@ -1,6 +1,9 @@
 # Open Source For Common Good
 My own list of open source projects that serve a social or environmental goal.
-Some projects out there didn't make the list, because while being cool, didn't have any history of pull-requests and few or no collaborators. 
+
+Some projects out there didn't make the list, because while being cool, didn't have any history of pull-requests and few or no collaborators.  Right now, I'm only including projects that have had some activity in the past year.  I might start a second list for projects that look promising, but have gone quiet and cool use a revival. 
+
+---
 
 ### Citizen Journalism
 | Project | Description | Status |
