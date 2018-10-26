@@ -27,6 +27,7 @@ Some projects out there didn't make the list, because while being cool, didn't h
 
 ### Robotics
 - Elcano - a self-driving recumbent tricycle - https://github.com/elcano/elcano [![GitHub last commit](https://img.shields.io/github/last-commit/elcano/elcano.svg)](https://github.com/elcano/elcano)
+- Solar Concentrator - Open Hardware Solar concentrator, Linear Fresnel Reflector -  https://github.com/osefrance/SolarConcentrator [![GitHub last commit](https://img.shields.io/github/last-commit/elcano/elcano.svg)](https://github.com/osefrance/SolarConcentrator)
 
 ### Ecological Research
 - Oceanography for everyone - https://github.com/OceanographyforEveryone/OpenCTD
