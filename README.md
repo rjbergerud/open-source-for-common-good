@@ -5,8 +5,8 @@ Some projects out there didn't make the list, because while being cool, didn't h
 ### Citizen Journalism
 | Project | Description | Status |
 |--|--|--|
-| [Aleph](https://github.com/alephdata/aleph) | |![GitHub last commit](https://img.shields.io/github/last-commit/alephdata/aleph.svg)| |
-| [DogwoodBC's Ban Big Money API](https://github.com/DogwoodBC/bigmoney/) | | [![GitHub last commit](https://img.shields.io/github/last-commit/DogwoodBC/bigmoney.svg)](https://github.com/DogwoodBC/bigmoney/) [![GitHub open pull requests](https://img.shields.io/github/issues-pr-closed/DogwoodBC/bigmoney.svg)](https://github.com/DogwoodBC/bigmoney/pulls) | |
+| [Aleph](https://github.com/alephdata/aleph) | Aleph is a tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search. It is built with investigative reporting as a primary use case. |![GitHub last commit](https://img.shields.io/github/last-commit/alephdata/aleph.svg)| |
+| [DogwoodBC's Ban Big Money API](https://github.com/DogwoodBC/bigmoney/) | A Django0rest api for political contributions in BC, Canada | [![GitHub last commit](https://img.shields.io/github/last-commit/DogwoodBC/bigmoney.svg)](https://github.com/DogwoodBC/bigmoney/) [![GitHub open pull requests](https://img.shields.io/github/issues-pr-closed/DogwoodBC/bigmoney.svg)](https://github.com/DogwoodBC/bigmoney/pulls) | |
 | [Tabula](https://github.com/tabulapdf/tabula) | Useful for pulling tables from PDFs | [![GitHub last commit](https://img.shields.io/github/issues-pr/tabulapdf/tabula.svg)](https://github.com/tabulapdf/tabula) [![GitHub open pull requests](https://img.shields.io/github/issues-pr/tabulapdf/tabula.svg)](https://github.com/tabulapdf/tabula/pulls)  | |
 
 ### Civic Data
@@ -32,7 +32,7 @@ Some projects out there didn't make the list, because while being cool, didn't h
 ### Other
 | Project | Description | Status |
 |--|--|--|
-| [Protecting US Federal climate data](https://github.com/climate-mirror/) | | |
+| [Protecting US Federal climate data](https://github.com/climate-mirror/) | Climate Mirror - an open project to mirror public climate datasets | |
 | [Stolen Bike Index](https://github.com/bikeindex/bike_index) | It is the most widely used and successful bicycle registration service in the world with over 188,000 cataloged bikes, 550 community partners and tens of thousands of daily searches.  | [![GitHub last commit](https://img.shields.io/github/last-commit/bikeindex/bike_index.svg)](https://github.com/bikeindex/bike_index) [![GitHub open pull requests](https://img.shields.io/github/issues-pr/bikeindex/bike_index.svg)](https://github.com/bikeindex/bike_index) |
 | [ElectricityMap](https://github.com/tmrowco/electricitymap-contrib) | Real-time map for CO2 emissions by country/region from electricity |  [![GitHub last commit](https://img.shields.io/github/last-commit/tmrowco/electricitymap-contrib.svg)](https://github.com/tmrowco/electricitymap-contrib) [![GitHub open pull requests](https://img.shields.io/github/issues-pr/tmrowco/electricitymap-contrib.svg)](https://github.com/tmrowco/electricitymap-contrib) |
 
