@@ -18,6 +18,7 @@ Some projects out there didn't make the list, because while being cool, didn't h
 
 ### Community Building
 - Warmshowers is a hospitality site for cycle-tourists - https://github.com/warmshowers/Warmshowers.org
+- TerraStories is an application designed to help communities map and access their own place-based storytelling. - https://github.com/rubyforgood/terrastories [![GitHub last commit](https://img.shields.io/github/last-commit/opencivicdata/pupa.svg)](https://github.com/rubyforgood/terrastories)
 
 ### Humanitarian
 - HospitalRun is an open source hospital information system.  The project welcomes new contributors, and has a very active community - https://github.com/HospitalRun/hospitalrun-frontend
