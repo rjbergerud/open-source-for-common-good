@@ -34,6 +34,8 @@ Some projects out there didn't make the list, because while being cool, didn't h
 
 ### Ecological Research
 - Oceanography for everyone - https://github.com/OceanographyforEveryone/OpenCTD
+- Nature for People - Global Modeling of Nature’s Contributions to People - https://github.com/charlottegiseleweil/natureforpeople [![GitHub last commit](https://img.shields.io/github/last-commit/elcano/elcano.svg)](https://github.com/charlottegiseleweil/natureforpeople)
+
 
 ### Other
 | Project | Description | Status |
