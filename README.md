@@ -34,7 +34,8 @@ Some projects out there didn't make the list, because while being cool, didn't h
 
 ### Ecological Research
 - Oceanography for everyone - https://github.com/OceanographyforEveryone/OpenCTD
-- Nature for People - Global Modeling of Nature’s Contributions to People - https://github.com/charlottegiseleweil/natureforpeople [![GitHub last commit](https://img.shields.io/github/last-commit/elcano/elcano.svg)](https://github.com/charlottegiseleweil/natureforpeople)
+- Nature for People - Global Modeling of Nature’s Contributions to People - https://github.com/charlottegiseleweil/natureforpeople
+- Wildbook -  Wildbook blends structured wildlife research with artificial intelligence, citizen science, and computer vision to speed population analysis and develop new insights to help fight extinction. Here is our vision in one minute.  - https://github.com/WildbookOrg/Wildbook [![GitHub last commit](https://img.shields.io/github/last-commit/elcano/elcano.svg)](https://github.com/WildbookOrg/Wildbook)
 
 
 ### Other
