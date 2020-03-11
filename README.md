@@ -9,21 +9,21 @@ Some projects out there didn't make the list, because while being cool, didn't h
 
 #### Mature Projects
 These are projects that already have multiple collaborators
-| Project | Description | Status |
-|--|--|--|
-| [Project Drawdown Solutions](https://github.com/ProjectDrawdown/solutions) | See the [book](https://www.amazon.ca/Drawdown-Comprehensive-Proposed-Reverse-Warming/dp/0143130447).  Comprehensive and modelled plan for reversing climate change based on the work of hundreds of experts. |  ![GitHub last commit](https://img.shields.io/github/last-commit/ProjectDrawdown/solutions.svg) |
-| Climate Choice](https://github.com/impactmakers/climatechoice) | We've created straight-forward guides on the choices you can make today, to take action and help prevent earth’s climate breaking down | ![GitHub last commit](https://img.shields.io/github/last-commit/impactmakers/climatechoice.svg) |
-| [Climate-Watch](https://github.com/Vizzuality/climate-watch) | Climate Watch offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress. |  ![GitHub last commit](https://img.shields.io/github/last-commit/Vizzuality/climate-watch.svg) |
-| [Laws and Pathways](https://github.com/Vizzuality/laws_and_pathways) | Climate Change Laws of the World and Transition Pathways Initiative CMS + Front end Applications | ![GitHub last commit](https://img.shields.io/github/last-commit/Vizzuality/laws_and_pathways.svg) |
-| [Python for Power Systems Analysis](https://github.com/PyPSA/PyPSA) | PyPSA is a free software toolbox for simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks. | ![GitHub last commit](https://img.shields.io/github/last-commit/PyPSA/PyPSA.svg) |
-| [Wind Python](https://github.com/wind-python/windpowerlib) |  The windpowerlib is a library to model the output of wind turbines and farms. https://oemof.org/ | ![GitHub last commit](https://img.shields.io/github/last-commit/wind-python/windpowerlib.svg) 
-| [Trillion Tree Campagin](https://github.com/Plant-for-the-Planet-org/treecounter-app) | There's enough space in the world for lots of new trees. In total, an area the size of the USA could be reforested! Discover on the map where trees have already been planted and where more can be planted.| ![GitHub last commit](https://img.shields.io/github/last-commit/Plant-for-the-Planet-org/treecounter-app.svg) |
+| Project | Description | Status / Last Commit | 
+| --- | --- | --- | 
+| [Project Drawdown Solutions](https://github.com/ProjectDrawdown/solutions) | See the [book](https://www.amazon.ca/Drawdown-Comprehensive-Proposed-Reverse-Warming/dp/0143130447).  Comprehensive and modelled plan for reversing climate change based on the work of hundreds of experts. |  ![GitHub last commit](https://img.shields.io/github/last-commit/ProjectDrawdown/solutions.svg)![GitHub last commit](https://img.shields.io/github/contributors/ProjectDrawdown/solutions.svg) | 
+| [Climate Choice](https://github.com/impactmakers/climatechoice) | We've created straight-forward guides on the choices you can make today, to take action and help prevent earth’s climate breaking down | ![GitHub last commit](https://img.shields.io/github/last-commit/impactmakers/climatechoice.svg?style=for-the-badge&logo=appveyor) ![GitHub contributors](https://img.shields.io/github/contributors/impactmakers/climatechoice.svg)
+| [Climate-Watch](https://github.com/Vizzuality/climate-watch) | Climate Watch offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress. |  ![GitHub last commit](https://img.shields.io/github/last-commit/Vizzuality/climate-watch.svg) ![GitHub contributors](https://img.shields.io/github/contributors/Vizzuality/climate-watch.svg) | 
+| [Laws and Pathways](https://github.com/Vizzuality/laws_and_pathways) | Climate Change Laws of the World and Transition Pathways Initiative CMS + Front end Applications | ![GitHub last commit](https://img.shields.io/github/last-commit/Vizzuality/laws_and_pathways.svg) ![GitHub contributors](https://img.shields.io/github/contributors/Vizzuality/laws_and_pathways.svg)| 
+| [Python for Power Systems Analysis](https://github.com/PyPSA/PyPSA) | PyPSA is a free software toolbox for simulating and optimising modern power systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks. | ![GitHub last commit](https://img.shields.io/github/last-commit/PyPSA/PyPSA.svg) ![GitHub contributors](https://img.shields.io/github/contributors/PyPSA/PyPSA.svg) | 
+| [Wind Python](https://github.com/wind-python/windpowerlib) |  The windpowerlib is a library to model the output of wind turbines and farms. https://oemof.org/ | ![GitHub last commit](https://img.shields.io/github/last-commit/wind-python/windpowerlib.svg) ![GitHub contributors](https://img.shields.io/github/contributors/wind-python/windpowerlib.svg)  | 
+| [Trillion Tree Campagin](https://github.com/Plant-for-the-Planet-org/treecounter-app) | There's enough space in the world for lots of new trees. In total, an area the size of the USA could be reforested! Discover on the map where trees have already been planted and where more can be planted.| ![GitHub last commit](https://img.shields.io/github/last-commit/Plant-for-the-Planet-org/treecounter-app.svg) ![GitHub contributors](https://img.shields.io/github/contributors/Plant-for-the-Planet-org/treecounter-app.svg)| 
 
 #### New Projects
 These are projects that are new, have few contributors, or are looking for collaborators
 | Project | Description | Status |
 |--|--|--|
-| [Climatescape](https://github.com/climatescape/climatescape.org) | Front end for [climatescape.org] (https://climatescape.org/sectors/energy), a directory for discovering the organizations solving climate change | ![GitHub last commit](https://img.shields.io/github/last-commit/climatescape/climatescape.svg) |
+| [Climatescape](https://github.com/climatescape/climatescape.org) | Front end for [climatescape.org] (https://climatescape.org/sectors/energy), a directory for discovering the organizations solving climate change | ![GitHub last commit](https://img.shields.io/github/last-commit/climatescape/climatescape.org.svg) ![GitHub contributors](https://img.shields.io/github/contributors/climatescape/climatescape.org.svg) |
 | [Predict PV Yeild](https://github.com/openclimatefix/predict_pv_yield) | If we have more accurate predictions of how much electricity a PV installation will produce over the next few hours then we can reduce the amount of fossil fuel backup required.| ![GitHub last commit](https://img.shields.io/github/last-commit/openclimatefix/predict_pv_yield.svg) |
 | [Power Genome](https://github.com/gschivley/PowerGenome) | Power system optimization models can be used to explore the cost and emission implications of different regulations in future energy systems.  A tool to quickly and easily create inputs for power systems models | ![GitHub last commit](https://img.shields.io/github/last-commit/gschivley/PowerGenome.svg) |
 | [Soils Revealed](https://github.com/Vizzuality/soils-revealed) | Platform for direct visualization, analysis and reporting of soil organic carbon predictions and changes over time. | ![GitHub last commit](https://img.shields.io/github/last-commit/Vizzuality/soils-revealed.svg) |
@@ -32,7 +32,7 @@ These are projects that are new, have few contributors, or are looking for colla
 | Project | Description | Status |
 |--|--|--| 
 | [Aleph](https://github.com/alephdata/aleph) | Aleph is a tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search. It is built with investigative reporting as a primary use case. |![GitHub last commit](https://img.shields.io/github/last-commit/alephdata/aleph.svg)| |
-| [DogwoodBC's Ban Big Money API](https://github.com/DogwoodBC/bigmoney/) | A Django0rest api for political contributions in BC, Canada | [![GitHub last commit](https://img.shields.io/github/last-commit/DogwoodBC/bigmoney.svg)](https://github.com/DogwoodBC/bigmoney/) [![GitHub open pull requests](https://img.shields.io/github/issues-pr-closed/DogwoodBC/bigmoney.svg)](https://github.com/DogwoodBC/bigmoney/pulls) | 
+| [DogwoodBC's Ban Big Money API](https://github.com/DogwoodBC/bigmoney/) | A Django-rest api for political contributions in BC, Canada | [![GitHub last commit](https://img.shields.io/github/last-commit/DogwoodBC/bigmoney.svg)](https://github.com/DogwoodBC/bigmoney/) [![GitHub open pull requests](https://img.shields.io/github/issues-pr-closed/DogwoodBC/bigmoney.svg)](https://github.com/DogwoodBC/bigmoney/pulls) | 
 | [Tabula](https://github.com/tabulapdf/tabula) | Useful for pulling tables from PDFs | [![GitHub last commit](https://img.shields.io/github/issues-pr/tabulapdf/tabula.svg)](https://github.com/tabulapdf/tabula) [![GitHub open pull requests](https://img.shields.io/github/issues-pr/tabulapdf/tabula.svg)](https://github.com/tabulapdf/tabula/pulls)  | |
 
 ### Civic Data
@@ -73,7 +73,7 @@ These are projects that are new, have few contributors, or are looking for colla
 
 ### Other lists
 - [Code Against Climate Change](https://github.com/climateaction-tech/code-against-climate-change)
-- [Awesome Earth] (https://github.com/philsturgeon/awesome-earth)
+- [Awesome Earth](https://github.com/philsturgeon/awesome-earth)
 
 ## Events, Workshops, and Competitions:
 - Kaggle, Understanding Human Impact on the Amazon Rainforest: https://www.kaggle.com/c/planet-understanding-the-amazon-from-space 
