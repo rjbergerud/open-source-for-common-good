@@ -1,13 +1,18 @@
 # Open Source For Common Good
 A curated list of open source projects that serve a social or environmental goal.
 
-Some projects out there didn't make the list, because while being cool, didn't have any history of pull-requests and few or no collaborators.  Right now, I'm only including projects that have had some activity in the past year.  I might start a second list for projects that look promising, but have gone quiet and cool use a revival. 
+Some projects out there didn't make the list, because while being cool, didn't have any history of pull-requests and few or no collaborators.  Right now, I'm only including projects that have had some activity in the past year.  I might start a second list for projects that look promising, but have gone quiet and could use a revival. 
 
 ---
 
-### Citizen Journalism
+### Climate Change
 | Project | Description | Status |
 |--|--|--|
+| [Predict PV Yeild](https://github.com/openclimatefix/predict_pv_yield) | If we have more accurate predictions of how much electricity a PV installation will produce over the next few hours then we can reduce the amount of fossil fuel backup required.| ![GitHub last commit](https://img.shields.io/github/last-commit/openclimatefix/predict_pv_yield.svg)
+### Citizen Journalism
+| Project | Description | Status |
+|--|--|--| 
+
 | [Aleph](https://github.com/alephdata/aleph) | Aleph is a tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search. It is built with investigative reporting as a primary use case. |![GitHub last commit](https://img.shields.io/github/last-commit/alephdata/aleph.svg)| |
 | [DogwoodBC's Ban Big Money API](https://github.com/DogwoodBC/bigmoney/) | A Django0rest api for political contributions in BC, Canada | [![GitHub last commit](https://img.shields.io/github/last-commit/DogwoodBC/bigmoney.svg)](https://github.com/DogwoodBC/bigmoney/) [![GitHub open pull requests](https://img.shields.io/github/issues-pr-closed/DogwoodBC/bigmoney.svg)](https://github.com/DogwoodBC/bigmoney/pulls) | |
 | [Tabula](https://github.com/tabulapdf/tabula) | Useful for pulling tables from PDFs | [![GitHub last commit](https://img.shields.io/github/issues-pr/tabulapdf/tabula.svg)](https://github.com/tabulapdf/tabula) [![GitHub open pull requests](https://img.shields.io/github/issues-pr/tabulapdf/tabula.svg)](https://github.com/tabulapdf/tabula/pulls)  | |
