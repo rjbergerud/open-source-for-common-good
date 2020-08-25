@@ -76,7 +76,7 @@ These are projects that are new, have few contributors, or are looking for colla
 ### Other lists
 - [Code Against Climate Change](https://github.com/climateaction-tech/code-against-climate-change)
 - [Awesome Earth](https://github.com/philsturgeon/awesome-earth)
-- [ConservationX Projects] (https://conservationx.com/projects)
+- [ConservationX Projects](https://conservationx.com/projects)
 
 ## Events, Workshops, and Competitions:
 - Kaggle, Understanding Human Impact on the Amazon Rainforest: https://www.kaggle.com/c/planet-understanding-the-amazon-from-space 
